@@ -1,0 +1,5 @@
+﻿Variable,Usage,Definition
+SUBJECT_ID,ID,ID
+Age,Predictor,Age
+Sex,Predictor,"Female=1, Male=2"
+outcome,Target,"Discharge_mRS =<2 is 1, and >2 is 0"
